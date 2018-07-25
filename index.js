@@ -19,7 +19,11 @@ function iLoveTheBeatles(n) {
   var newArray = [];
   do {
     newArray.push("I love the Beatles!");
+<<<<<<< HEAD
     n++;
+=======
+    // n++;
+>>>>>>> 619ee96cf7afe56fd496ae9feab661d36b96ddb2
   } while (n < 15); 
   return newArray
 }
